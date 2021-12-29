@@ -13,6 +13,10 @@
     margin-top: 30px;
 }
 
+.left{
+    text-align: right;
+    float: right;
+}
 hr{ 
     margin-top: 1px; 
     margin-bottom: 1px;
