@@ -12,3 +12,9 @@
     margin-bottom: 3px;
     margin-top: 30px;
 }
+
+hr{ 
+    margin-top: 1px; 
+    margin-bottom: 1px;
+    border-color: black;
+}
