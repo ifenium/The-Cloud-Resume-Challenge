@@ -8,3 +8,16 @@ In today's task, I'll be deploying my resume I coded in HTML & CSS as a static w
 
 I would be following a tutorial provided by [Microsoft Docs](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-how-to?tabs=azure-portal) on this specific matter as I have no intention of reinventing the wheel :-)
 
+![Tux, the Linux mascot](https://github.com/ifenium/The-Cloud-Resume-Challenge/blob/main/04/2.png)
+
+
+![Tux, the Linux mascot](https://github.com/ifenium/The-Cloud-Resume-Challenge/blob/main/04/3.png)
+
+
+![Tux, the Linux mascot](https://github.com/ifenium/The-Cloud-Resume-Challenge/blob/main/04/4.png)
+
+
+![Tux, the Linux mascot](https://github.com/ifenium/The-Cloud-Resume-Challenge/blob/main/04/5.png)
+
+
+![Tux, the Linux mascot](https://github.com/ifenium/The-Cloud-Resume-Challenge/blob/main/04/Result.png)
