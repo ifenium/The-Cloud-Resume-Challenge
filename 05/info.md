@@ -1,0 +1,1 @@
+> I could not take on this challenge because the Azure subscription I have is from the GitHub Student Program and Azure CDN is not available.
