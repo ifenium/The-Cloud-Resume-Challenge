@@ -22,3 +22,18 @@ hr{
     margin-bottom: 1px;
     border-color: black;
 }
+
+.website-counter {
+    background-color: #9e2020;
+    height: 50px;
+    width: 80px;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
