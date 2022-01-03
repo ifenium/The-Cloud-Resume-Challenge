@@ -1,13 +1,9 @@
-var counterContainer = document.querySelector(".website-counter");
-var resetButton = document.querySelector("#reset");
-var visitCount = localStorage.getItem("page_view");
+const countE1 = document.getElementsById('website-counter');
 
-// Check if page_view entry is present
-if (visitCount) {
-  visitCount = Number(visitCount) + 1;
-  localStorage.setItem("page_view", visitCount);
-} else {
-  visitCount = 1;
-  localStorage.setItem("page_view", 1);
+updatecount();
+ 
+function updatecount(){
+    fetch('https://api.countapi.xyz/update/ifenium/meee/?amount=1').then(res => res.json()).then(res => {
+      countE1.innerHTML = res.value;
+    });
 }
-counterContainer.innerHTML = visitCount;
